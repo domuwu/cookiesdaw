@@ -1,0 +1,32 @@
+Manejo de estado
+Es la forma de recordar info del usuario entre páginas
+saber quien esta logeada
+recordar un nombre
+mantener una sesion activa
+guardar preferencias
+
+¿que es una cookie?
+una cookie es un pequeño dato que el servidor guarda en el navegador del usuario (oh wow)
+la cookie:
+se guarda en el navegador
+tiene nombre y valor
+puede durar minutos, horas o dias
+
+¿como funciona una cookie? (recorrido)
+servidor -> gguarda cookie -> navegador
+navegador -> envia cookie -> servidor
+el navegador la envia automaticamente en cada peticion 
+
+¿para qué se usan las cookies?
+recordar nombre de usuario
+idioma preferido
+tema claro/oscuro
+aceptacion de cookies
+
+importante sobre cookies:
+no son seguras
+no se usan para contraseñas
+son visibles desde el navegador
+
+una cookie es informacion que el servidor almacena en el navegador
+del usuario para recrodar datos entre paginas
